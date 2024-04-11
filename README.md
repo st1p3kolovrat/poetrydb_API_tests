@@ -1,7 +1,7 @@
 # Sporty_api_tests_demo
 Automated API tests example for demo purpose, using Behave Framework (Python)
 This repo contains setup for the demo purpose of the Sporty. It consists of
-sending requests to certain endpoint, and testing functionality od the same.  
+sending requests to certain endpoint, and testing functionality of the same.  
 
 For this task we used"
 - [PoetryDB API](https://github.com/thundercomb/poetrydb#readme)
@@ -51,4 +51,4 @@ only difference with this scenario is that it is a scenario outline, so we have 
 scenario. 
 
 Note: This can be expanded vastly into more positive scenarios, but also negative scenarios where we
-would expect certain error message to occur in case of incorrect reqtest method, invalid search query, and many more. 
+would expect certain error message to occur in case of incorrect request method, invalid search query, and many more.
